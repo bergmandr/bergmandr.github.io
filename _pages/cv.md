@@ -18,7 +18,7 @@ Education
 
 Academic Appointments
 ======
-* **Professor**, University of Utah, July 2023 – Present
+* **Professor**, University of Utah, July 2022 – Present
 * **Associate Professor**, University of Utah, Aug 2009 – June 2022
 * **Assistant Professor**, Rutgers University, July 2005 – June 2009
 * **Postdoctoral Fellow**, Rutgers University, July 1997 – July 2000
