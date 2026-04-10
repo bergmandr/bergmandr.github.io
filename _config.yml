@@ -30,7 +30,8 @@ author:
   location         : "Salt Lake City, UT"
   employer         : "University of Utah"
   uri              : # URL
-  email            : "douglas.bergman@utah.edu" 
+  email            : "douglas.bergman@utah.edu"
+  cv               : "/files/Bergman_CV.pdf"
 
   # Academic websites
   academia         : # URL
